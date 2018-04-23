@@ -42,9 +42,12 @@ TestResult.xml
 [Rr]eleasePS/
 dlldata.c
 
+<<<<<<< HEAD
 # Benchmark Results
 BenchmarkDotNet.Artifacts/
 
+=======
+>>>>>>> 793ff82da0d78960b1fb680242f8052fedc25503
 # .NET Core
 project.lock.json
 project.fragment.lock.json
@@ -116,10 +119,13 @@ _TeamCity*
 # DotCover is a Code Coverage Tool
 *.dotCover
 
+<<<<<<< HEAD
 # AxoCover is a Code Coverage Tool
 .axoCover/*
 !.axoCover/settings.json
 
+=======
+>>>>>>> 793ff82da0d78960b1fb680242f8052fedc25503
 # Visual Studio code coverage results
 *.coverage
 *.coveragexml
@@ -155,7 +161,11 @@ publish/
 # Publish Web Output
 *.[Pp]ublish.xml
 *.azurePubxml
+<<<<<<< HEAD
 # Note: Comment the next line if you want to checkin your web deploy settings,
+=======
+# TODO: Comment the next line if you want to checkin your web deploy settings
+>>>>>>> 793ff82da0d78960b1fb680242f8052fedc25503
 # but database connection strings (with potential passwords) will be unencrypted
 *.pubxml
 *.publishproj
@@ -190,7 +200,10 @@ AppPackages/
 BundleArtifacts/
 Package.StoreAssociation.xml
 _pkginfo.txt
+<<<<<<< HEAD
 *.appx
+=======
+>>>>>>> 793ff82da0d78960b1fb680242f8052fedc25503
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
@@ -286,9 +299,12 @@ __pycache__/
 # tools/**
 # !tools/packages.config
 
+<<<<<<< HEAD
 # Tabs Studio
 *.tss
 
+=======
+>>>>>>> 793ff82da0d78960b1fb680242f8052fedc25503
 # Telerik's JustMock configuration file
 *.jmconfig
 
